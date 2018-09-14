@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageInstaller", "PackageInstaller\PackageInstaller.csproj", "{15699356-6309-4B66-8B0F-6A8DE4FC14BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15699356-6309-4B66-8B0F-6A8DE4FC14BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15699356-6309-4B66-8B0F-6A8DE4FC14BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15699356-6309-4B66-8B0F-6A8DE4FC14BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15699356-6309-4B66-8B0F-6A8DE4FC14BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F18D702-F6FC-4B1F-A634-93F91F62E23E}
+	EndGlobalSection
+EndGlobal
